@@ -1,0 +1,21 @@
+com.prayerwell.prayer_well_uniterrupted.app-jetified-window-1.0.0-beta04-0 /Users/macbookpro/.gradle/caches/transforms-3/032f4dff274e516110d9363a9793a3e3/transformed/jetified-window-1.0.0-beta04/res
+com.prayerwell.prayer_well_uniterrupted.app-jetified-window-java-1.0.0-beta04-1 /Users/macbookpro/.gradle/caches/transforms-3/142c24f2530665bb6deb4123ab140714/transformed/jetified-window-java-1.0.0-beta04/res
+com.prayerwell.prayer_well_uniterrupted.app-lifecycle-runtime-2.3.1-2 /Users/macbookpro/.gradle/caches/transforms-3/25a884faa36a531a9e5f369d596bbf88/transformed/lifecycle-runtime-2.3.1/res
+com.prayerwell.prayer_well_uniterrupted.app-jetified-play-services-base-18.1.0-3 /Users/macbookpro/.gradle/caches/transforms-3/4b9d22533576529904e76f8ef61c175c/transformed/jetified-play-services-base-18.1.0/res
+com.prayerwell.prayer_well_uniterrupted.app-core-1.9.0-4 /Users/macbookpro/.gradle/caches/transforms-3/75f115a0f1013408c24b813aa08b99f3/transformed/core-1.9.0/res
+com.prayerwell.prayer_well_uniterrupted.app-jetified-play-services-basement-18.1.0-5 /Users/macbookpro/.gradle/caches/transforms-3/95e76454cff392b3dff66e1259c7e57f/transformed/jetified-play-services-basement-18.1.0/res
+com.prayerwell.prayer_well_uniterrupted.app-jetified-annotation-experimental-1.3.0-6 /Users/macbookpro/.gradle/caches/transforms-3/ae329bc8a0eb87982c4fe41e3ec5da7f/transformed/jetified-annotation-experimental-1.3.0/res
+com.prayerwell.prayer_well_uniterrupted.app-jetified-play-services-maps-18.2.0-7 /Users/macbookpro/.gradle/caches/transforms-3/b4788c193f13f554649fe724431810b5/transformed/jetified-play-services-maps-18.2.0/res
+com.prayerwell.prayer_well_uniterrupted.app-debug-8 /Volumes/AnasBackup/Bilal bhai/APP/android/app/src/debug/res
+com.prayerwell.prayer_well_uniterrupted.app-main-9 /Volumes/AnasBackup/Bilal bhai/APP/android/app/src/main/res
+com.prayerwell.prayer_well_uniterrupted.app-pngs-10 /Volumes/AnasBackup/Bilal bhai/APP/build/app/generated/res/pngs/debug
+com.prayerwell.prayer_well_uniterrupted.app-resValues-11 /Volumes/AnasBackup/Bilal bhai/APP/build/app/generated/res/resValues/debug
+com.prayerwell.prayer_well_uniterrupted.app-rs-12 /Volumes/AnasBackup/Bilal bhai/APP/build/app/generated/res/rs/debug
+com.prayerwell.prayer_well_uniterrupted.app-mergeDebugResources-13 /Volumes/AnasBackup/Bilal bhai/APP/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.prayerwell.prayer_well_uniterrupted.app-mergeDebugResources-14 /Volumes/AnasBackup/Bilal bhai/APP/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.prayerwell.prayer_well_uniterrupted.app-merged_res-15 /Volumes/AnasBackup/Bilal bhai/APP/build/app/intermediates/merged_res/debug
+com.prayerwell.prayer_well_uniterrupted.app-packaged_res-16 /Volumes/AnasBackup/Bilal bhai/APP/build/flutter_compass/intermediates/packaged_res/debug
+com.prayerwell.prayer_well_uniterrupted.app-packaged_res-17 /Volumes/AnasBackup/Bilal bhai/APP/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/debug
+com.prayerwell.prayer_well_uniterrupted.app-packaged_res-18 /Volumes/AnasBackup/Bilal bhai/APP/build/flutter_qiblah/intermediates/packaged_res/debug
+com.prayerwell.prayer_well_uniterrupted.app-packaged_res-19 /Volumes/AnasBackup/Bilal bhai/APP/build/geolocator_android/intermediates/packaged_res/debug
+com.prayerwell.prayer_well_uniterrupted.app-packaged_res-20 /Volumes/AnasBackup/Bilal bhai/APP/build/google_maps_flutter_android/intermediates/packaged_res/debug
